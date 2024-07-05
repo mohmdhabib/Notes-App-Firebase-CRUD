@@ -49,21 +49,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAqCo6TPguvnGjtwobB6SCXxzKBTwplNXI',
-    appId: '1:1087302637865:web:fd63398de1e9b8710c3f38',
-    messagingSenderId: '1087302637865',
-    projectId: 'crudt12-55877',
-    authDomain: 'crudt12-55877.firebaseapp.com',
-    storageBucket: 'crudt12-55877.appspot.com',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCKT5FEbU2Q9mX-cFZ96r5OHiFC4qcMPB4',
-    appId: '1:1087302637865:android:d53b6c524bc774420c3f38',
-    messagingSenderId: '1087302637865',
-    projectId: 'crudt12-55877',
-    storageBucket: 'crudt12-55877.appspot.com',
-  );
-
+//your credentials here to run the firebase usually it is auto-generated.
 }
