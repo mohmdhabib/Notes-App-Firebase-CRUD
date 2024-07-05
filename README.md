@@ -1,4 +1,4 @@
-# crud using Firebase in Flutter Notes app
+# Notes App flutter-firebase CRUD
 A new Flutter project.
 
 ## Getting Started
