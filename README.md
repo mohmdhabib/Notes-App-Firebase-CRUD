@@ -1,5 +1,4 @@
-# crudtut01
-
+# crud using Firebase in Flutter Notes app
 A new Flutter project.
 
 ## Getting Started
